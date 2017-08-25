@@ -6,6 +6,14 @@
   - Used & New High End Japanese Products
   - Specializes in Swap components (MFG'd in house)
 
+- [Wolfreign Motors](http://www.wolfreignmotors.com/)
+  - Used JDM Goods (engines, cars parts)
+  - In USA
+
+- [RHDJAPAN](https://www.rhdjapan.com/)
+  - Large Japanese Retailer
+  - In Japan :(
+
 #### Mazda:
 - [**BubbleTech:**](http://www.bubbletech.us/parts/)
   - Mostly Diet Supplies, some used goods
