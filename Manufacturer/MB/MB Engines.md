@@ -37,16 +37,17 @@
 ---
 
 ## MB DOHC inline 6 [M104](https://en.wikipedia.org/wiki/Mercedes-Benz_M104_engine) SWAP
+
 #### Displacements available: 2.8, 3.2, 3.6 (AMG)
 
-- 2.8L (M104.94x)
+- **2.8L (M104.94x)**
 (might be ideal, i'd like to turbo this)
   - bore 89.9mm, stroke 73.5mm
   - 193 hp @ 5,500 rpm
   - 199 ft/lbs @ 3,750 rpm
   - C:R 10:1
 
-- 3.2L (M104.99x Found in E320 W124)
+- **3.2L (M104.99x Found in E320 W124)**
   - bore 89.9mm, stroke 84.0mm
   - 217 hp @ 5,500 rpm
   - 229 ft·lbs @ 3,750 rpm
@@ -54,11 +55,12 @@
   - Exhaust valves are 31mm
   - C:R 10:1
 
+[OTHER: **M104 3.2 Turbo Thread**](http://www.peachparts.com/shopforum/performance-paddock/284473-useful-3-2l-m104-specs-using-honda-connecting-rods.html)
 
 [itbs built youtube 3.2L](https://www.youtube.com/watch?v=zKyuluNM5ZY)
 `It's Autronic SM4 ECU. ITB's are from BMW E28 M5﻿``
 
-- 3.6L engine (m104.941 AMG C36)
+- **3.6L engine (m104.941 AMG C36)**
   - bore 91mm, stroke 92.4mm
   - 280 horsepower @ 5,750 rpm
   - 284 pound-feet @ 4,000 rpm
@@ -66,26 +68,6 @@
 
 ---
 
-### Reference DREAM SPECS (OS Giken TC24-B1Z 3.2L DOHC 10,000 RPM 400WHP)
-[SpeedHunters article (specs)](http://www.speedhunters.com/2013/02/engine-porn-os-giken-tc24-b1z/)
-- Displacement 3.2L (3208cc)
-
-- Bore 89 mm, Stroke 86 mm
-- 420 HP @ 9,000 rpm
-- 289 lb/ft @ 8,000 rpm
-- C:R 11.5/1
-
-
-- Other Details
-  - Valve adjusters.. been changed from screw type to bucket & shim
-    - helping lower mass and make the engine rev more freely.
-  - OS Giken forged and counter balanced crankshaft
-  - H-section connecting rods
-  - oversized pistons
-  - ATI crank damper is fitted
-    - keeps harmful crankshaft harmonics at bay.
-  - OS Giken clutches & lightened flywheel
-  - Weber carbs
 ---
 
 ### Other Inline 4 MFGs (Reference)
@@ -106,8 +88,6 @@
 ---
 
 ## (CRAZY OPTION): ROTARY SWAP
-
-
 ### Engine Management:
 [TUNING GUIDE](https://www.youtube.com/watch?v=zgNWFfQg7Mo)
 [w201 13b Swap](https://www.rx7club.com/single-turbo-rx-7s-23/190e-mercedes-13b-turbo-build-1044121/)
