@@ -1,0 +1,61 @@
+# Legacy [4th Generation BL 2004-200](https://en.wikipedia.org/wiki/Subaru_Legacy_(fourth_generation))
+- [AVLS](https://en.wikipedia.org/wiki/Active_valve_lift_system)
+- [AVCS](https://en.wikipedia.org/wiki/Active_valve_control_system)
+- EZ30D in USDM Legacy 2008
+- 3.0L(EZ30D)
+  - Input seems to be EZ30D is superior to newer 3.6L EZ36D
+- [PERRIN BUILD EZ30D](http://blog.perrinperformance.com/perrin-h6-build-up/)
+
+
+### [Subaru EZ engine](https://en.wikipedia.org/wiki/List_of_Subaru_engines#EZ) | [Japanese WIKI](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%90%E3%83%AB%E3%83%BBEZ%E5%9E%8B%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3)
+- History
+  - The (Japanese: Subaru EZ series) was introduced in 1999 in the Japanese market, in the Subaru Outback, and in 2000 in the United States market, also in the Outback.
+  - It is a flat-six, 24-valve, quad-cam engine with an aluminium block and heads.
+  - It is available in EZ30 and EZ36 variants.
+    - Though the second iteration of the EZ30D used from 2003 to 2009 was heavily updated from the early EZ30D used from 2001 to 2003, Subaru continued to identify it as EZ30D.
+    - "EZ30R" is a false engine code often used on the Internet for the later EZ30, but Subaru has never used it as an official engine code.
+  - All EZ-series engines use dual timing chains and feature coil-on-plug ignition.
+- EZ30D:
+- This version uses one exhaust port per head, a cable-actuated throttle, variable intake geometry, and a cast aluminium intake manifold.
+  - It was only available with an automatic transmission.
+- SPECS
+  - Displacement: 2999 cc DOHC
+  - Bore: 89.2 mm
+  - Stroke: 80 mm
+  - Compression: 10.7:1
+  - Power: 220 PS (162 kW; 217 hp) at 6000 rpm
+  - Torque: 289 N·m (29 kg·m; 213 lb·ft) at 4400 rpm
+- Application:
+  - 2000–2004 Subaru Outback H6
+  - 2000–2002 Subaru Legacy GT30
+  - 2000–2002 Subaru Legacy Lancaster 6
+
+- EZ30D
+- This version received new cylinder heads with 3 exhaust ports per head, AVLS, AVCS on the intake cams only, a drive-by-wire throttle, and a plastic intake manifold.
+  - It was available in manual and automatic unlike the old EZ30D.
+- SPECS
+  - Displacement: 2999 cc DOHC
+  - Bore: 89.2 mm
+  - Stroke: 80 mm
+  - Compression: 10.7:1
+  - Power: 245 PS (180 kW; 242 hp) at 6600 rpm
+  - Torque: 297 N·m (30 kg·m; 219 lb·ft) at 4200 rpm
+- Application:
+  - 2003–2009 Subaru Legacy 3.0R
+  - 2005–2009 Subaru Outback 3.0R
+  - 2006–2007 Tribeca
+
+- EZ36D
+- The EZ36D retains the plastic intake manifold, 3 exhaust ports per head, and drive-by-wire throttle of the later EZ30D, but loses AVLS while gaining AVCS for both intake and exhaust cams.
+  - The EZ36D also incorporates an asymmetrical connecting rod design shared with the FB series of engines and the EE20 diesel engine.
+- SPECS
+  - Displacement: 3629 cc DOHC
+  - Bore: 92 mm
+  - Stroke: 91 mm
+  - Compression: 10.5:1
+  - Power: 260 PS (191 kW; 256 hp) at 6000 rpm
+  - Torque: 335 N·m (34 kg·m; 247 lb·ft) at 4400 rpm
+- Application:
+  - 2010-current Subaru Legacy
+  - 2010-current Subaru Outback
+  - 2008-2014 Subaru Tribeca
